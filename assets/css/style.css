@@ -1,0 +1,25 @@
+/* ...existing code... */
+.swiper-slide {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    padding: 20px;
+}
+
+.swiper-slide img {
+    max-width: 100%;
+    height: auto;
+    margin-bottom: 10px;
+}
+
+.swiper-slide h3 {
+    font-size: 1.5rem;
+    margin: 10px 0;
+}
+
+.swiper-slide p {
+    font-size: 1rem;
+    color: #666;
+}
+/* ...existing code... */
